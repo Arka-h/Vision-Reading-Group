@@ -4,6 +4,7 @@ Stay upto date with recent papers in the field!
 ## Table of Contents
 * [Research Papers](#research-papers)
   * [3D Vision Papers](#3d-vision-papers)
+  * [Diffusion](#diffusion)
 
 # Research Papers
 ## 3D Vision Papers
