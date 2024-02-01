@@ -17,3 +17,7 @@ Stay upto date with recent papers in the field!
 ## Diffusion
 - [ ] LatentPaint: Image Inpainting in Latent Space with Diffusion Models [Published WACV 24] [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Corneanu_LatentPaint_Image_Inpainting_in_Latent_Space_With_Diffusion_Models_WACV_2024_paper.pdf)] [[Video](https://www.youtube.com/watch?v=mhHc34O2H4o)]
 - [ ] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [Published CVPR 23] [[Paper](https://arxiv.org/abs/2208.12242)] [[Demo](https://dreambooth.github.io/)] [[Dataset](https://github.com/google/dreambooth)] [[Tutorial](https://huggingface.co/docs/diffusers/en/training/dreambooth)]
+
+# Review Papers
+## 3D Vision
+- [ ] https://arxiv.org/abs/2210.00379
