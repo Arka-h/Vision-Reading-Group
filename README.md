@@ -6,8 +6,7 @@ Stay upto date with recent papers in the field!
   * [3D Vision](#3d-vision)
   * [Diffusion](#diffusion)
 * [Survey Papers](#research-papers)
-  * [3D Vision](#3d-vision)
-  * [Diffusion](#diffusion)
+  * [3D Vision](#3d-vision-1)
 
 # Research Papers
 ## 3D Vision
