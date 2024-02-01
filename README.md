@@ -22,4 +22,4 @@ Stay upto date with recent papers in the field!
 
 # Survey Papers
 ## 3D Vision
-- [ ] NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [Submitted 30 Nov arxiv] [[paper](https://arxiv.org/abs/2210.00379)]
+- [ ] NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [Submitted 30 Nov arxiv] [[Paper](https://arxiv.org/abs/2210.00379)]
