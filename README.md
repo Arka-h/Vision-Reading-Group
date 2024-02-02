@@ -4,8 +4,8 @@ Stay upto date with recent papers in the field!
 ## Table of Contents
 * [Research Papers](#research-papers)
   * [3D Vision](#3d-vision)
-   * [3D Editing & Grounding](#)
-   * [NERFs](#nerfs)
+    * [3D Editing & Grounding](#3d-editing--grounding)
+    * [NERFs](#nerfs)
   * [Diffusion](#diffusion)
 * [Survey Papers](#research-papers)
   * [3D Vision](#3d-vision-1)
