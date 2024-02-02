@@ -10,6 +10,7 @@ Stay upto date with recent papers in the field!
   * [Diffusion](#diffusion)
 * [Survey Papers](#research-papers)
   * [3D Vision](#3d-vision-1)
+    * [NERFs](#nerfs-1)
 
 # Research Papers
 ## 3D Vision
@@ -30,4 +31,5 @@ Stay upto date with recent papers in the field!
 
 # Survey Papers
 ## 3D Vision
+### NERFs
 - [ ] NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [Submitted 30 Nov arxiv] [[Paper](https://arxiv.org/abs/2210.00379)]
