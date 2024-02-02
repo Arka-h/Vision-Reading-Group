@@ -5,6 +5,7 @@ Stay upto date with recent papers in the field!
 * [Research Papers](#research-papers)
   * [3D Vision](#3d-vision)
     * [3D Editing & Grounding](#3d-editing--grounding)
+    * [3D Inpainting](#3d-inpainting)
     * [NERFs](#nerfs)
   * [Diffusion](#diffusion)
 * [Survey Papers](#research-papers)
