@@ -24,6 +24,7 @@ Stay upto date with recent papers in the field!
 - [ ] Breathing New Life into 3D Assets with Generative Repainting [Published ICCV 23] [[Paper](https://arxiv.org/abs/2309.08523)] [[Demo](https://www.obukhov.ai/repainting_3d_assets)] [[Code](https://github.com/kongdai123/repainting_3d_assets)]
 ### NERFs
 - [x] D-NeRF: Neural Radiance Fields for Dynamic Scenes [Published CVPR 21] [[Paper](https://arxiv.org/abs/2011.13961)] [[Demo](https://www.albertpumarola.com/research/D-NeRF/index.html)] [[Code](https://github.com/albertpumarola/D-NeRF)]
+- [x] Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields [Published ICCV 21] [[Paper](https://arxiv.org/abs/2103.13415)] [[Code](https://github.com/google/mipnerf)]
 
 ## Diffusion
 - [ ] LatentPaint: Image Inpainting in Latent Space with Diffusion Models [Published WACV 24] [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Corneanu_LatentPaint_Image_Inpainting_in_Latent_Space_With_Diffusion_Models_WACV_2024_paper.pdf)] [[Video](https://www.youtube.com/watch?v=mhHc34O2H4o)]
