@@ -1,5 +1,22 @@
+
 # Vision-Reading-Group
 Stay upto date with recent papers in the field!
+
+## Table of Contents
+- [Vision-Reading-Group](#vision-reading-group)
+  - [Table of Contents](#table-of-contents)
+- [Research Papers](#research-papers)
+  - [3D Vision](#3d-vision)
+    - [3D Generation](#3d-generation)
+    - [3D Editing](#3d-editing)
+    - [3D Grounding](#3d-grounding)
+    - [3D Inpainting](#3d-inpainting)
+    - [NERFs](#nerfs)
+  - [Diffusion](#diffusion)
+- [Survey Papers](#survey-papers)
+  - [3D Vision](#3d-vision-1)
+    - [NERFs](#nerfs-1)
+    - [Emboidied AI](#emboidied-ai)
 
 # Research Papers
 ## 3D Vision
