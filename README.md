@@ -29,7 +29,7 @@ Stay upto date with recent papers in the field!
 - [ ] *Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions [ICCV 23] [[Paper](https://arxiv.org/abs/2303.12789)] [[Demo](https://instruct-nerf2nerf.github.io/)] [[Code](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
 - [ ] ED-NeRF: Efficient Text-Guided Editing of 3D Scene With Latent Space NeRF [ICLR 24] [[Paper](https://arxiv.org/abs/2310.02712)] [[Demo](https://ed-nerf.github.io/)] 
 - [ ] Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation [ICCV 23] [[Paper](https://arxiv.org/abs/2308.02874)]
-- [ ] DreamBooth3D: Subject-Driven Text-to-3D Generation [ICCV 23] [[Paper](https://arxiv.org/abs/2303.13508)] [[Demo](https://dreambooth3d.github.io/)] 
+- [x] DreamBooth3D: Subject-Driven Text-to-3D Generation [ICCV 23] [[Paper](https://arxiv.org/abs/2303.13508)] [[Demo](https://dreambooth3d.github.io/)] 
 - [ ] Vox-E: Text-guided Voxel Editing of 3D Objects [ICCV 23] [[Paper](https://arxiv.org/abs/2303.12048)] [[Demo](https://tau-vailab.github.io/Vox-E/)] [[Code](https://github.com/TAU-VAILab/Vox-E)]
 - [ ] CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields [CVPR 22] [[Paper](https://arxiv.org/abs/2112.05139)] [[Demo](https://cassiepython.github.io/clipnerf/)] [[Code](https://github.com/cassiePython/CLIPNeRF)]
 - [ ] DreamEditor: Text-Driven 3D Scene Editing with Neural Fields [SIGGRAPH 23] [[Paper](https://arxiv.org/abs/2306.13455)] [[Demo](https://www.sysu-hcp.net/projects/cv/111.html)] [[Code](https://github.com/zjy526223908/DreamEditor)] 
