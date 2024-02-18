@@ -3,19 +3,20 @@
 Stay upto date with recent papers in the field!
 ## Table of Contents
 - [Vision-Reading-Group](#vision-reading-group)
-  - [Table of Contents](#table-of-contents)
+    - [Table of Contents](#table-of-contents)
 - [Research Papers](#research-papers)
-  - [3D Vision](#3d-vision)
-    - [3D Generation](#3d-generation)
-    - [3D Editing](#3d-editing)
-    - [3D Grounding](#3d-grounding)
-    - [3D Inpainting](#3d-inpainting)
-    - [NERFs](#nerfs)
-  - [Diffusion](#diffusion)
+    - [3D Vision](#3d-vision)
+        - [3D Generation](#3d-generation)
+        - [3D Editing](#3d-editing)
+        - [3D Grounding](#3d-grounding)
+        - [3D Inpainting](#3d-inpainting)
+        - [NERFs](#nerfs)
+    - [Diffusion](#diffusion)
 - [Survey Papers](#survey-papers)
-  - [3D Vision](#3d-vision-1)
-    - [NERFs](#nerfs-1)
-    - [Emboidied AI](#emboidied-ai)
+    - [3D Vision](#3d-vision-1)
+        - [NERFs](#nerfs-1)
+        - [Emboidied AI](#emboidied-ai)
+        - [Data Poisoning](#data-poisoning)
 
 # Research Papers
 <details>
@@ -83,4 +84,8 @@ Stay upto date with recent papers in the field!
 ### NERFs
 - [ ] NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [Submitted 30 Nov arxiv] [[Paper](https://arxiv.org/abs/2210.00379)]
 ### Emboidied AI
-- [ ] A Survey of Embodied AI: From Simulators to Research Tasks [IEEE Txn 22] [[Paper](https://arxiv.org/abs/2103.04918)]
+- [ ] A Survey of Embodied AI: From Simulators to Research Tasks [IEEE Txn 22] [[Paper](https://arxiv.org/abs/2103.04918)] 
+
+### Data Poisoning
+- [ ] Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and
+Data Poisoning Attacks [PMLR '21] [[Paper](http://proceedings.mlr.press/v139/schwarzschild21a/schwarzschild21a.pdf)]
