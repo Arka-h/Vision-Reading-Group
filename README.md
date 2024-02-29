@@ -49,6 +49,7 @@ Stay upto date with recent papers in the field!
 - [x] Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields [ICCV 21] [[Paper](https://arxiv.org/abs/2103.13415)] [[Code](https://github.com/google/mipnerf)]
 
 ## Diffusion
+- [ ] Understanding Diffusion Models: A Unified Perspective. by Calvin Luo [Explainer, arxiv] [[Paper](https://arxiv.org/abs/2208.11970)]
 - [ ] LatentPaint: Image Inpainting in Latent Space with Diffusion Models [WACV 24] [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Corneanu_LatentPaint_Image_Inpainting_in_Latent_Space_With_Diffusion_Models_WACV_2024_paper.pdf)] [[Video](https://www.youtube.com/watch?v=mhHc34O2H4o)]
 - [ ] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [CVPR 23] [[Paper](https://arxiv.org/abs/2208.12242)] [[Demo](https://dreambooth.github.io/)] [[Dataset](https://github.com/google/dreambooth)] [[Tutorial](https://huggingface.co/docs/diffusers/en/training/dreambooth)]
 
