@@ -60,5 +60,5 @@ Stay upto date with recent papers in the field!
 - [ ] A Survey of Embodied AI: From Simulators to Research Tasks [IEEE Txn 22] [[Paper](https://arxiv.org/abs/2103.04918)] 
 
 ### Data Poisoning
-- [ ] Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and
+- [x] Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and
 Data Poisoning Attacks [PMLR '21] [[Paper](http://proceedings.mlr.press/v139/schwarzschild21a/schwarzschild21a.pdf)]
