@@ -1,9 +1,8 @@
 
 # Vision-Reading-Group
-Stay upto date with recent papers in the field!
+
 ## Table of Contents
-- [Vision-Reading-Group](#vision-reading-group)
-    - [Table of Contents](#table-of-contents)
+- [Overview](#overview)
 - [Research Papers](#research-papers)
     - [3D Vision](#3d-vision)
         - [3D Generation](#3d-generation)
@@ -22,6 +21,27 @@ Stay upto date with recent papers in the field!
         - [Data Poisoning](#data-poisoning)
 - [Explainers](#explainers)
     - [Diffusion](#diffusion-1)
+
+## Overview
+### Mission
+ -  Foster collaboration and knowledge exchange in various sub-fields of Computer Vision.
+ -  Explore and discuss cutting-edge research (SOTA) across different areas.
+ -  Provide a platform for brainstorming, peer review, and constructive criticism.
+ -  Develop reading papers & ideation as a habit or hobby.
+### Format
+ -  **Online Sessions** : Convenient for everyone.
+ -  **Semi-Formal** : Develop reading and discussion skills in a relaxed atmosphere.
+ -  **Frequency** : Weekly (optional for members to present every week).
+### Paper Selection
+ -  **Two Papers per Session** : Focus on foundational or influential papers relevant to different sub-fields.
+ -  **Open Selection** : Members can add interesting papers to a shared list (presenter not required to be the recommender).
+### Presentation
+ -  **Collaborative Exploration** : Brief on-the-spot reading and group discussion encouraged. Members are free to prepare beforehand as well.
+ -  **Active Participation** : Attendees should guide the presenter and contribute to understanding, not just ask questions.
+ -  **Ideas Sandbox** : Members can present their own ideas for feedback and discussion.
+### Additional Points
+ -  **Minimal Commitment** : While regular participation is encouraged, a minimum of two volunteers per week for paper presentations is preferred.
+ -  **Constructive Environment** : Promote open discussion, respectful debate, and supportive feedback.
 
 # Research Papers
   
