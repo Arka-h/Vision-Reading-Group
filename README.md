@@ -12,11 +12,16 @@ Stay upto date with recent papers in the field!
         - [3D Inpainting](#3d-inpainting)
         - [NERFs](#nerfs)
     - [Diffusion](#diffusion)
+    - [Distillation](#distillation)
 - [Survey Papers](#survey-papers)
+    - [Foundation Models](#foundation-models)
     - [3D Vision](#3d-vision-1)
         - [NERFs](#nerfs-1)
         - [Emboidied AI](#emboidied-ai)
+    - [Adversarial](#adversarial)
         - [Data Poisoning](#data-poisoning)
+- [Explainers](#explainers)
+    - [Diffusion](#diffusion-1)
 
 # Research Papers
   
@@ -44,6 +49,7 @@ Stay upto date with recent papers in the field!
 - [ ] Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data [Submitted 2 Jan 23 arxiv] [[Paper](https://arxiv.org/abs/2301.00527)] [[Code](https://github.com/zoomin-lee/scene-scale-diffusion)]
 
 ### NERFs
+- [x] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [[Paper](https://arxiv.org/abs/2003.08934)] [[Demo](tancik.com/nerf)] [[Code](https://github.com/bmild/nerf)] [[Dataset](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)]
 - [x] D-NeRF: Neural Radiance Fields for Dynamic Scenes [CVPR 21] [[Paper](https://arxiv.org/abs/2011.13961)] [[Demo](https://www.albertpumarola.com/research/D-NeRF/index.html)] [[Code](https://github.com/albertpumarola/D-NeRF)]
 - [x] Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields [ICCV 21] [[Paper](https://arxiv.org/abs/2103.13415)] [[Code](https://github.com/google/mipnerf)]
 
@@ -52,13 +58,25 @@ Stay upto date with recent papers in the field!
 - [ ] LatentPaint: Image Inpainting in Latent Space with Diffusion Models [WACV 24] [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Corneanu_LatentPaint_Image_Inpainting_in_Latent_Space_With_Diffusion_Models_WACV_2024_paper.pdf)] [[Video](https://www.youtube.com/watch?v=mhHc34O2H4o)]
 - [ ] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [CVPR 23] [[Paper](https://arxiv.org/abs/2208.12242)] [[Demo](https://dreambooth.github.io/)] [[Dataset](https://github.com/google/dreambooth)] [[Tutorial](https://huggingface.co/docs/diffusers/en/training/dreambooth)]
 
+## Distillation
+- [ ] Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion [CVPR 20] [[Paper](http://arxiv.org/abs/1912.08795)] [[Code](https://github.com/NVlabs/DeepInversion)]
+
 # Survey Papers
+
+## Foundation Models
+- [ ] A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT [Submitted 18 Feb 23 arxiv] [[Paper](http://arxiv.org/abs/2302.09419)]
+
 ## 3D Vision
 ### NERFs
-- [ ] NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [Submitted 30 Nov arxiv] [[Paper](https://arxiv.org/abs/2210.00379)]
+- [ ] NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review [Submitted 30 Nov 23 arxiv] [[Paper](https://arxiv.org/abs/2210.00379)]
 ### Emboidied AI
 - [ ] A Survey of Embodied AI: From Simulators to Research Tasks [IEEE Txn 22] [[Paper](https://arxiv.org/abs/2103.04918)] 
 
+## Adversarial
 ### Data Poisoning
 - [x] Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and
 Data Poisoning Attacks [PMLR '21] [[Paper](http://proceedings.mlr.press/v139/schwarzschild21a/schwarzschild21a.pdf)]
+
+# Explainers
+## Diffusion
+Understanding Diffusion Models: A Unified Perspective [Submitted 25 Aug 23 arxiv] [[Paper](https://arxiv.org/abs/2208.11970)]
