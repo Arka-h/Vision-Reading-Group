@@ -1,6 +1,42 @@
 
 # Vision-Reading-Group
-Stay upto date with recent papers in the field!
+
+## Mission
+ -  Foster collaboration and knowledge exchange in various sub-fields of [your field].
+ -  Explore and discuss cutting-edge research (SOTA) across different areas.
+ -  Provide a platform for brainstorming, peer review, and constructive criticism.
+ -  Develop reading papers as a habit/hobby.
+## Format
+ -  **Online Sessions** : Convenient for everyone.
+ -  **Semi-Formal** : Develop reading and discussion skills in a relaxed atmosphere.
+ -  **Frequency** : Weekly (optional for members to present every week).
+## Paper Selection
+ -  **Two Papers per Session** : Focus on foundational or influential papers relevant to different sub-fields.
+ -  **Open Selection** : Members can add interesting papers to a shared list (presenter not required to be the recommender).
+## Presentation
+ -  **Collaborative Exploration** : Brief on-the-spot reading and group discussion encouraged.
+ -  **Active Participation** : Attendees should guide the presenter and contribute to understanding, not just ask questions.
+ -  **Optional Presentation** : Members can present their own ideas for feedback and discussion.
+## Additional Points
+ -  **Minimal Commitment** : While regular participation is encouraged, a minimum of two volunteers per week for paper presentations is preferred.
+ -  **Constructive Environment** : Promote open discussion, respectful debate, and supportive feedback.
+
+
+Purpose: 
+    * Stay updated/relevant with papers in the contributor's respective interests, and encourage exploratory research & collaboration.
+    * Discuss, debate and develop an overview/moderate understanding of SOTA across different verticals (& their own).
+    * Provide a platform to discuss interesting concepts, inspiring members to ideate and open perspectives across sub-fields.
+    * Provide a inclusive environment to bounce ideas with peer reviews, discussion and constructive criticism.
+
+Rules:
+    * Sessions will be held online, as it's the most convenient for all members of the group.
+    * It will be semi-formal in nature as it's a practice for developing reading interesting papers and ideating as a hobby & not as merely a voluntary event.
+    * Each session we will discuss atleast two interesting papers(think about central papers that are cited in many downstream applications and that need understanding/explaining. ex. Diffusion) presented by two contributors in their respective domains, discuss and explain the papers to the group.
+    * Optionally each member can also present their own ideas to receive feedback & ideate online via discussion.
+    * Brief reading of papers on the spot by presenter, without preparation is not only allowed but encouraged. Members are expected to help guide the presenter & participate in understanding together, not just ask questions.
+    * It is optional for members to prepare and present every week, although it's expected that atleast 2 volunteers will take responsibility every week.
+    * Any member is free to pick/add interesting papers to the list to present. However, it's not necessary for the person adding the paper to present themselves. If someone else is interested in presenting the paper, they may do so as well.
+
 ## Table of Contents
 - [Vision-Reading-Group](#vision-reading-group)
     - [Table of Contents](#table-of-contents)
