@@ -47,6 +47,9 @@
   
 ## 3D Vision
 
+### 3D Correspondence
+- [x] FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent [Submitted 23 Apr 2024 arxiv] [[Paper](https://arxiv.org/abs/2404.15259v1)] [[Demo](https://cameronosmith.github.io/flowmap/)] ~Continue next time
+
 ### 3D Generation
 - [ ] DreamFusion: Text-to-3D using 2D Diffusion [ICLR 23] [[Paper](https://arxiv.org/abs/2209.14988)] [[Demo](https://dreamfusion3d.github.io/)]
 - [x] LucidDreaming: Controllable Object-Centric 3D Generation [Submitted 30 Nov 2023 arxiv] [[Paper](https://arxiv.org/abs/2312.00588)] [[Demo](https://www.zhaoningwang.com/LucidDreaming/)] [[Code](https://github.com/EricWang12/LucidDreaming/tree/main)]
