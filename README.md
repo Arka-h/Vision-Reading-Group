@@ -20,6 +20,8 @@ Stay upto date with recent papers in the field!
 
 # Research Papers
 ## 3D Vision
+abcdefgh
+
 ### 3D Generation
 - [x] LucidDreaming: Controllable Object-Centric 3D Generation [Submitted 30 Nov 2023 arxiv] [[Paper](https://arxiv.org/abs/2312.00588)] [[Demo](https://www.zhaoningwang.com/LucidDreaming/)] [[Code](https://github.com/EricWang12/LucidDreaming/tree/main)]
 - [ ] HD-Fusion: Detailed Text-to-3D Generation Leveraging Multiple Noise Estimation [WACV 24] [[Paper](https://arxiv.org/abs/2307.16183)] [[Video](https://www.youtube.com/watch?v=3uPFCCaTIcQ)]
