@@ -49,6 +49,8 @@
 
 ### 3D Correspondence
 - [x] FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent [Submitted 23 Apr 2024 arxiv] [[Paper](https://arxiv.org/abs/2404.15259v1)] [[Demo](https://cameronosmith.github.io/flowmap/)] ~Continue next time
+- [ ] DUST3R : DUSt3R: Geometric 3D Vision Made Easy  [[Paper] (https://arxiv.org/abs/2312.14132)] [[Project page] (https://dust3r.europe.naverlabs.com)]
+- [ ] Vision Transformers for Dense Prediction [[Paper] (https://arxiv.org/pdf/2103.13413)]
 
 ### 3D Generation
 - [ ] DreamFusion: Text-to-3D using 2D Diffusion [ICLR 23] [[Paper](https://arxiv.org/abs/2209.14988)] [[Demo](https://dreamfusion3d.github.io/)]
