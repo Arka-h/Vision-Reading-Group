@@ -48,7 +48,7 @@
 ## 3D Vision
 
 ### Feature Field Distillation
-- [x] Decomposing NeRF for Editing via Feature Field Distillation [[Paper] (https://arxiv.org/abs/2205.15585)]
+- [x] Decomposing NeRF for Editing via Feature Field Distillation [[Paper](https://arxiv.org/abs/2205.15585)]
 - [x] Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields [[Paper](https://arxiv.org/abs/2312.03203)] 
 
 ### 3D Correspondence
