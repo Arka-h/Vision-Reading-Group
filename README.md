@@ -49,7 +49,7 @@
 
 ### Feature Field Distillation
 - [x] Decomposing NeRF for Editing via Feature Field Distillation [[Paper] (https://arxiv.org/abs/2205.15585)]
-- [x] Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields [[Paper] (https://arxiv.org/abs/2312.03203)] 
+- [x] Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields [[Paper](https://arxiv.org/abs/2312.03203)] 
 
 ### 3D Correspondence
 - [x] FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent [Submitted 23 Apr 2024 arxiv] [[Paper](https://arxiv.org/abs/2404.15259v1)] [[Demo](https://cameronosmith.github.io/flowmap/)] ~Continue next time
